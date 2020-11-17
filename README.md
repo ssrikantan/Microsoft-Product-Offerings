@@ -1,4 +1,4 @@
-# Microsoft Product offering
+# Microsoft Products offering
 The Reop contains Posters of Microsoft products offering in a single A3 size Page
 
 
