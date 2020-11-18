@@ -1,9 +1,7 @@
 # Microsoft Products offering
-The Reop contains Posters of Microsoft products offering in a single A3 size Page
+The Repo contains A3 size Posters which are a collection of Microsoft products offered
+It contains :
+- A3 poster of Microsoft on premise offerings
+- A Power BI Report for services available in Azure and Azure Edge
 
-
-**Update**
-
-A poster containg the offering on Azure and Azure Edge has now been added, as a PDF Document in the same folder.
-
-The Azure and Azure Edge Posters can also be accessed using the Power BI Link [here](https://msit.powerbi.com/view?r=eyJrIjoiMGRlZmQ1N2UtM2U0Ny00YjQwLTg0NjAtMzgzMTAzNWFhZWQwIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9)
+The Azure and Azure Edge Posters can be accessed using the Power BI Link [here](https://msit.powerbi.com/view?r=eyJrIjoiMGRlZmQ1N2UtM2U0Ny00YjQwLTg0NjAtMzgzMTAzNWFhZWQwIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9)
