@@ -1,5 +1,6 @@
 # Microsoft Products offering
 The Repo contains A3 size Posters which are a collection of Microsoft products offered
+
 It contains :
 - A3 poster of Microsoft on premise offerings
 - A Power BI Report for services available in Azure and Azure Edge
