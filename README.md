@@ -1,5 +1,5 @@
 # Microsoft Products offering
-The Repo contains A3 size Posters which are a collection of Microsoft products offered
+The Repo contains A3 size Posters which are a compilation of Microsoft products offered
 
 It contains :
 - A3 poster of Microsoft on premise offerings
